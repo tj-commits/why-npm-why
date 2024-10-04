@@ -1,2 +1,1 @@
-# why-npm-why
-Please read the README of this repo
+Reflecting on the current state of npm where people install a package with 5 dependencies rather than write a single mathmatical equation to find out whether or not their variable is even or odd. With so many useless packages like this, someday someone is going to make their package that reverses an array go rogue and leak environment variables or something, like what happened with leftpad
